@@ -26,9 +26,7 @@
 1. 点击软件右上角“Repository”中的“pull”（Ctrl+Shift+P），即可同步已被改变的代码到你的项目文件夹中。 
 
 ### 冲突与解决
-AAA
-CCC
-BBB
+
 
 
 
