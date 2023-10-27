@@ -7,7 +7,7 @@
 
 ## 克隆仓库内容
 1. 进入测试仓库：https://github.com/jujinqian162/online-Cooperation-Test
-2. 点击绿色按钮code，复制哪个HTTPS地址
+2. 点击绿色按钮code，复制HTTPS地址
 3. 进入GitHub desktop，选择“clone repository”
 4. 在URL那一栏，填写进之前的网址，选择一个在合理位置的空文件夹，点击clone————这将整个仓库内容拷贝进你的文件夹
 5. 之后你可以使用编辑器（如unity3D，vscode）打开项目，并添加与修改代码或文本
