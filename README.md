@@ -29,9 +29,10 @@
 ### 冲突与解决
 1. 如果遇到多人同时对项目更改，会造成冲突，当你提交时，会出现黄色三角形警示符。
 2. 如果冲突了，则点击蓝色按钮“Fetch”
-3. 然后你会看到“Resolve conflicts before Merge”,它会提示你有哪些文件起了冲突，需要你自行点开这个文件并解决冲突。
-4. 然后再点击“Pull origin”（左上角或中间蓝色按钮都可以），
-5. 再点击“Push origin”。
+3. 然后再点击“Pull origin”（左上角或中间蓝色按钮都可以）
+4. 然后你会看到“Resolve conflicts before Merge”,它会提示你有哪些文件起了冲突，需要你自行点开这个文件并解决冲突。
+5. 点击Continue merge
+6. 再点击“Push origin”。
 
 
 
