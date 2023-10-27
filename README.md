@@ -2,7 +2,7 @@
 ## 初始准备
 
 1. 下载 Git （见网上教程）
-2. 下载  [GitHub desktop](https://desktop.github.com/) https://desktop.github.com/
+2. 下载  [GitHub desktop](https://desktop.github.com/)
 3. 最好下载一个VScode（方便编辑markdown格式文本）
 
 ## 克隆仓库内容
