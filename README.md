@@ -37,10 +37,12 @@
 ### 高级操作 分支与合并
 我们很可能用不到，如果有需要，可见b站 [BV1kA4y1D7Xp](https://www.bilibili.com/video/BV1kA4y1D7Xp)
 
+## 注意
+每次修改前记得Fetch origin
+![Alt text](image/image.png)
 ## Test
 LWF 看到请回复：看得到不
 
 
 
 
-![Alt text](image/image-2.png)
